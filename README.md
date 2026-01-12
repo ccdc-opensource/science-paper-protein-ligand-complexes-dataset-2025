@@ -16,6 +16,6 @@ The dataset folder contains 486 subfolders named `PDBID_CCDID`. Each folder cont
 - `PDBID_prepared_protein_cofactors.cif`
 - `CCDID_prepared_ligand.mol2`
 
-`PDBID_prepared_protein.pdb` and `PDBID_prepared_protein.cif` contain a porocessed structure of the protein only, `PDBID_prepared_protein_cofactors.pdb` and 
-`PDBID_prepared_protein_cofactors.cif` include, in addtition to the protein structure, protonated cofactors and metal atoms located near the protein's binding pocket. 
+`PDBID_prepared_protein.pdb` and `PDBID_prepared_protein.cif` contain a porocessed structure of the protein only, `PDBID_prepared_protein_cofactors.pdb` and
+`PDBID_prepared_protein_cofactors.cif` include, in addtition to the protein structure, protonated cofactors and metal atoms located near the protein's binding pocket.
 `CCDID_prepared_ligand.mol2` contains a structure of a protonated ligands.
